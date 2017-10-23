@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerEarthCore", "HackerEarthCore\HackerEarthCore.csproj", "{E74BA9D4-8F1B-4C58-8ED2-8827FAF90E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerEarthCoreUT", "HackerEarthCoreUT\HackerEarthCoreUT.csproj", "{AC7048B5-FE1D-4A6C-8DCE-EA0D02DED313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74BA9D4-8F1B-4C58-8ED2-8827FAF90E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74BA9D4-8F1B-4C58-8ED2-8827FAF90E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74BA9D4-8F1B-4C58-8ED2-8827FAF90E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74BA9D4-8F1B-4C58-8ED2-8827FAF90E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC7048B5-FE1D-4A6C-8DCE-EA0D02DED313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7048B5-FE1D-4A6C-8DCE-EA0D02DED313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7048B5-FE1D-4A6C-8DCE-EA0D02DED313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7048B5-FE1D-4A6C-8DCE-EA0D02DED313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E23B853-C48C-45AD-8B0F-B0E227CDB2C4}
+	EndGlobalSection
+EndGlobal
